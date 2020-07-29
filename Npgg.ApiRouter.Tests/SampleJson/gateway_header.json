@@ -1,0 +1,26 @@
+{
+  "Header": {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
+    "cache-control": "max-age=0",
+    "CloudFront-Forwarded-Proto": "https",
+    "CloudFront-Is-Desktop-Viewer": "true",
+    "CloudFront-Is-Mobile-Viewer": "false",
+    "CloudFront-Is-SmartTV-Viewer": "false",
+    "CloudFront-Is-Tablet-Viewer": "false",
+    "CloudFront-Viewer-Country": "KR",
+    "Host": "dragoon.riiid.io",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "none",
+    "sec-fetch-user": "?1",
+    "upgrade-insecure-requests": "1",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+    "Via": "2.0 2b01a1c7f11a39419ef4d148076f1450.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "nbP4Up6mhiRYr8shKlFBlgsmDgRwYXD76TLgzEE8pA_WTY3steIKxw==",
+    "X-Amzn-Trace-Id": "Root=1-5df07d9e-0e1106a4f021c5384fca4382",
+    "X-Forwarded-For": "1.214.48.230, 52.46.53.80",
+    "X-Forwarded-Port": "443",
+    "X-Forwarded-Proto": "https"
+  }
+}
