@@ -15,7 +15,7 @@ AWS Lambda Coldstart에서 발생하는 라이브러리를 최소화 하여 초�
 - 단위테스트에서 http call 을 따르지 않고 사용 가능
 - 필요에 따라 .NET CORE Web API에서 호출가능
 - Generic 한 MultiValueHeader/QueryString 활용
-- 기본적인 사용방법이 .NET CORE Web API 와 크게 다르지 않아 
+- 기본적인 사용방법이 .NET CORE Web API 와 크게 다르지 않아 접근성을 높임
 
 
 # 예제
